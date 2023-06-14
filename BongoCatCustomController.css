@@ -42,7 +42,7 @@ do so via my paypal: https://paypal.me/mrmcpowned
 }
 
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(ps3-assets/base-disconnect.png);
+    background: url(https://github.com/09awill/BongoCatCustomController/blob/main/catbg.png);
 }
     /* This hides the controller's button when disconnected so only the background image remains */
     .custom.disconnected div {
@@ -59,7 +59,7 @@ do so via my paypal: https://paypal.me/mrmcpowned
 .custom .trigger { /* These are the actual triggers themselves */
     width: 86px;
     height: 65px;
-    background: url(ps3-assets/triggers.png);
+    background: url(https://github.com/09awill/BongoCatCustomController/blob/main/catbg.png);
     opacity: 0;
 }
     /* The left and right classes below are used to position the triggers
@@ -79,7 +79,7 @@ placement */
 .custom .bumper {
     width: 89px;
     height: 28px;
-    background: url(ps3-assets/bumpers.png);
+    background: url(https://github.com/09awill/BongoCatCustomController/blob/main/catbg.png);
     opacity: 0;
 }
 
@@ -114,7 +114,7 @@ PS3 controller but it'd be pointless for me to change the HTML for
 something as pedantic as a name. */
 .custom .quadrant {
     position: absolute;
-    background: url(ps3-assets/player-n.png);
+    background: url(https://github.com/09awill/BongoCatCustomController/blob/main/catbg.png);
     height: 17px;
     width: 111px;
     top: 140px;
@@ -149,7 +149,7 @@ start and select buttons. */
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .back, .custom .start {
-    background: url(ps3-assets/menus.png);
+    background: url(https://github.com/09awill/BongoCatCustomController/blob/main/catbg.png);
     width: 34px;
     height: 19px;
 }
@@ -224,7 +224,7 @@ the CSS inline. */
 
 .custom .stick {
     position: absolute;
-    background: url(ps3-assets/thumbs.png);
+    background: url(https://github.com/09awill/BongoCatCustomController/blob/main/catbg.png);
     height: 105px;
     width: 105px;
 }
@@ -256,7 +256,7 @@ the CSS inline. */
 }
 
 .custom .face {
-    background: url(ps3-assets/dpad.png);
+    background: url(https://github.com/09awill/BongoCatCustomController/blob/main/catbg.png);
     position: absolute;
 }
 
