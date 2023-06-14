@@ -182,7 +182,7 @@ start and select buttons. */
     position: absolute;
     width: 62px;
     height: 62px;
-    background: url(ps3-assets/face-buttons.png);
+    background: url(https://github.com/09awill/BongoCatCustomController/blob/main/catbg.png);
 }
 
     .custom .button.pressed {
